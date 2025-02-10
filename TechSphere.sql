@@ -56,3 +56,38 @@ FROM core.customers c
 WHERE g.region = 'NA'
 ORDER BY 1
 LIMIT 10;
+
+-- Total number of orders by shipping month, sorted recent to oldest.
+SELECT
+  Date_trunc(ship_ts, month) as ship_month,
+  Count(order_id) as order_count
+FROM core.order_status
+GROUP BY 1
+ORDER BY 1 DESC; 
+
+-- AOV by year
+SELECT
+  round(Avg(usd_price), 2) as aov
+FROM core.orders; 
+
+
+-- Refund statuses
+SELECT *,
+  CASE
+    WHEN refund_ts IS Null THEN 0
+    ELSE 1
+  END AS is_refund
+FROM core.order_status
+LIMIT 20; 
+
+-- Product IDs and product names of Apple products.
+  DISTINCT product_id,
+  product_name
+FROM core.orders
+WHERE lower(product_name) LIKE '%apple%'
+OR lower(product_name) LIKE '%macbook%';
+
+-- 5. Days to ship
+SELECT *,
+  date_diff(ship_ts, purchase_ts, day) as days_to_ship
+FROM core.order_status;
