@@ -1,20 +1,19 @@
 -- Adhoc questions and queries for the TechSphere team
 
--- 1. What is the date of the earliest and latest order, returned in one query?
-
+-- The date of the earliest and latest order.
 SELECT 
   Min(purchase_ts) as earliest_order,
   Max(purchase_ts) as latest_order
 FROM core.orders; 
 
--- 2. What is the average order value for purchases made in USD? What about average order value for purchases made in USD in 2019?
+-- The AOV for purchases made in the US in 2019.
 SELECT
     Avg(usd_price) as usd_aov
 FROM 'core.orders'
 WHERE currency = 'USD'
 AND Extract(year from purchase_ts) = 2019;
 
--- 3. Return the id, loyalty program status, and account creation date for customers who made an account on desktop or mobile. Rename the columns to more descriptive names.
+-- Account creation dates for accounts made on desktop and mobile. 
 SELECT 
   id as customer_id,
   loyalty_program as is_loyalty_customer,
@@ -22,15 +21,38 @@ SELECT
 FROM 'core.customers'
 WHERE account_creation_method = 'desktop' or account_creation_method = 'mobile';
 
--- 4. What are all the unique products that were sold in AUD on website, sorted alphabetically?
+SELECT 
+  id AS customer_id,
+  created_on,
+    CASE
+    WHEN loyalty_program = 0 THEN 'Non_loyalty_member'
+    ELSE 'Loyalty_member'
+    END AS loyalty_program_status
+FROM  elistcore.core.customers
+WHERE account_creation_method = 'mobile'
+OR account_creation_method = 'desktop'
+ORDER BY 2;
+
+-- Unique products sold in AUD.
 SELECT DISTINCT product_name
 FROM 'core.orders'
 WHERE currency = 'AUD'
 AND purchase_platform = 'mobile app'
 ORDER BY 1 ASC;
--- 5. What are the first 10 countries in the North American region, sorted in descending alphabetical order?
+
+-- First 10 countries in the North American region.
 SELECT country_code
 FROM 'core.geo_lookup'
 WHERE region = 'NA'
 ORDER BY 1 DESC
+LIMIT 10;
+
+SELECT
+  c.country_code,
+  g.region
+FROM core.customers c
+  JOIN core.geo_lookup g 
+    ON c.country_code = g.country
+WHERE g.region = 'NA'
+ORDER BY 1
 LIMIT 10;
