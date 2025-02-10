@@ -87,7 +87,7 @@ FROM core.orders
 WHERE lower(product_name) LIKE '%apple%'
 OR lower(product_name) LIKE '%macbook%';
 
--- 5. Days to ship
+-- Days to ship
 SELECT *,
   date_diff(ship_ts, purchase_ts, day) as days_to_ship
 FROM core.order_status;
