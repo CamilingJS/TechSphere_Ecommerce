@@ -76,14 +76,14 @@ TechSphere possesses data on over 100,000 customer transactions, encompassing va
 </table>
 <table align="center">
   <tr>
-    <h3 align="center">Product Trends</h3>
+    <h3 align="center">Loyalty Program</h3>
     <td width="920">
     </td>
   </tr>
 </table>
 <table align="center">
   <tr>
-    <h3 align="center">Loyalty Program</h3>
+    <h3 align="center">Product Performance</h3>
     <td width="920">
     </td>
   </tr>
