@@ -27,11 +27,41 @@ TechSphere possesses data on over 100,000 customer transactions, encompassing va
 
 <table align="center">
   <tr>
-    <td width="920">
+    <div width="920">
       <h2 align="center">Executive Summary</h2>
-      <body></body>
-      <h4></h4>
+      <h3 align="center">Key Observations on the Positive Trend:</h3>
+        <div align="center"><img width="680" alt="Sales Revenue" src="https://github.com/user-attachments/assets/0f85bed2-b1f4-4d34-a0d2-d90ddb9f0899" /></div>
+      <td>
+      <ol>
+        <li><strong>Peak Performance:</strong>
+        <ul>
+            <li>The highest sales month was <strong>December 2020</strong>, reaching <strong>$1,251,721</strong>, with other strong months like <strong>September 2020</strong> and <strong>January 2021</strong> exceeding <strong>$1 million</strong> in revenue.</li>
+        </ul>
+    </li>
+    <li><strong>Higher Lows Over Time:</strong>
+        <ul>
+            <li>While there are some low-performing months (e.g., <strong>October 2022 at $178,275</strong>), the general baseline of sales appears to be increasing.</li>
+            <li>The lowest points in the latter part of the timeline are higher than earlier lows, indicating <strong>sustained growth even during slower months</strong>.</li>
+        </ul>
+    </li>
+    </ol>
+      </td>
+    <td>
+    <ol alignver="top" start="3">
+     <li><strong>Overall Growth:</strong>
+        <ul>
+            <li>Despite fluctuations, the long-term trajectory shows a <strong>gradual increase in sales revenue</strong>, suggesting business expansion and improved performance.</li>
+        </ul>
+    </li>
+    <li><strong>Stability and Recovery:</strong>
+        <ul>
+            <li>The company experiences <strong>seasonal fluctuations</strong>, yet the trend suggests a capacity to recover from downturns and capitalize on peak sales periods.</li>
+            <li><strong>Post-peak stabilization</strong> indicates <strong>market demand resilience</strong> and possibly stronger customer retention.</li>
+        </ul>
+    </li>
+    </ol>
     </td>
+    </div>
   </tr>
 </table>
 
