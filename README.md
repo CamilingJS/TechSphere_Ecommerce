@@ -18,7 +18,6 @@ TechSphere possesses data on over 100,000 customer transactions, encompassing va
   <li>Loyalty program evaluation - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention.</li>
   <li>Product performance - Analyzing different product lines, market impact, and refund rates to inform strategic product decisions.</li>
   <li>Operational effectiveness - Evaluating logistics and operational efficiency to identify areas for improvement.</li>
-  <li>Marketing channel performance - Analyzing campaign performances across channels to identify most effective ones for acquiring new customers and driving revenue.</li>
 </ul>
       </h4>
       </td>
