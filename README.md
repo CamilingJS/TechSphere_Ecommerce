@@ -64,32 +64,34 @@ TechSphere possesses data on over 100,000 customer transactions, encompassing va
     </div>
   </tr>
 </table>
-
-<table align="center">
-  <tr>
-    <td width="920">
-      <h2 align="center"></h2>
-      <body></body>
-      <h4></h4>
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td width="920">
-    </td>
-  </tr>
-</table>
-
-
 <h2 align="center">Entity relationship diagram (ERD) of TechSphere's data.</h2>
 <div align="center"><img  width="600" src="https://github.com/user-attachments/assets/140dfdc2-6c5c-433e-bb68-b5fbbd579174"></div>
 <h2 align="center">Deep-Dive Insights</h2>
-<h3 align="center">Sales Trends</h3>
-Body text
-<h3 align="center">Product Trends</h3>
-
-<h3 align="center">Loyalty Program</h3>
-
-<h3 align="center">Refund rates</h3>
+<table align="center">
+  <tr>
+    <h3 align="center">Sales Trends</h3>
+    <td width="920">
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <h3 align="center">Product Trends</h3>
+    <td width="920">
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <h3 align="center">Loyalty Program</h3>
+    <td width="920">
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <h3 align="center">Refund rates</h3>
+    <td width="920">
+    </td>
+  </tr>
+</table>
