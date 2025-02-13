@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="320px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1738046916/TechShere_Logo_JonathanCamiling" />
+  <img width="320px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/TechShere_Logo_CamilingJS" />
 </div>
 <h1 align="center">Driving Sales and Efficiency for TechSphere: Actionable Data Insights and Strategic Recommendations</h1>
 
