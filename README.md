@@ -55,7 +55,7 @@
           <li>
             <strong>Stability and Recovery:</strong>
             <ul>
-              <li>The company experiences <strong>seasonal fluctuations</strong>, yet the trend suggests a capacity to recover from downturns and capitalize on peak sales periods. </li>
+              <li>TechSphere experiences <strong>seasonal fluctuations</strong>, yet the trend suggests a capacity to recover from downturns and capitalize on peak sales periods. </li>
               <li>
                 <strong>Post-peak stabilization</strong> indicates <strong>market demand resilience</strong> and possibly stronger customer retention.
               </li>
