@@ -31,7 +31,7 @@ TechSphere possesses data on over 100,000 customer transactions, encompassing va
       <h3 align="center">Key Observations on the Positive Trend:</h3>
         <div align="center"><img width="680" alt="Sales Revenue" src="https://github.com/user-attachments/assets/0f85bed2-b1f4-4d34-a0d2-d90ddb9f0899" /></div>
       <td>
-      <ol>
+      <ol valign="top" >
         <li><strong>Peak Performance:</strong>
         <ul>
             <li>The highest sales month was <strong>December 2020</strong>, reaching <strong>$1,251,721</strong>, with other strong months like <strong>September 2020</strong> and <strong>January 2021</strong> exceeding <strong>$1 million</strong> in revenue.</li>
@@ -46,8 +46,8 @@ TechSphere possesses data on over 100,000 customer transactions, encompassing va
     </ol>
       </td>
     <td>
-    <ol alignver="top" start="3">
-     <li><strong>Overall Growth:</strong>
+    <ol valign="top" start="3">
+     <li ><strong>Overall Growth:</strong>
         <ul>
             <li>Despite fluctuations, the long-term trajectory shows a <strong>gradual increase in sales revenue</strong>, suggesting business expansion and improved performance.</li>
         </ul>
