@@ -64,7 +64,7 @@ TechSphere possesses data on over 100,000 customer transactions, encompassing va
   </tr>
 </table>
 <h2 align="center">Entity relationship diagram (ERD) of TechSphere's data.</h2>
-<div align="center"><img  width="600" src="https://github.com/user-attachments/assets/140dfdc2-6c5c-433e-bb68-b5fbbd579174"></div>
+<div align="center"><img  width="680" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739423466/TechSphere_ERD_CamilingJS"></div>
 <h2 align="center">Deep-Dive Insights</h2>
 <table align="center">
   <tr>
