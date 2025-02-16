@@ -1,12 +1,12 @@
 <div align="center">
   <img width="320px" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/TechShere_Logo_CamilingJS" />
 </div>
-<h1 align="center">Driving Sales and Efficiency for TechSphere: Actionable Data Insights and Strategic Recommendations</h1>
+<h1 align="center">Ecommerce Performance Report</h1>
 <table align="center">
   <tr>
     <td width="920">
       <h2 align="center">Client Background</h2>
-      <body> Established in 2018, TechSphere is a US-based e-commerce company that sells popular consumer electronics and accessories to a global clientele. As the company has grown and expanded in the last few years, it has encountered increasingly fierce competition from peer companies as well as unique challenges and opportunities brought on by the COVID-19 pandemic. <br>
+      <body> Established in 2018, <strong>TechSphere</strong> is a US-based e-commerce company that sells popular consumer electronics and accessories to a global clientele. As the company has grown and expanded in the last few years, it has encountered increasingly fierce competition from peer companies as well as unique challenges and opportunities brought on by the COVID-19 pandemic. <br>
         <br> TechSphere possesses data on over 100,000 customer transactions, encompassing various dimensions and metrics such as sales, products, marketing efforts, operations, and its loyalty program. To support the Head of Operations in evaluating the company’s performance over the past several years (2019–2022), an in-depth analysis was conducted. This comprehensive review revealed valuable insights that can be utilized by teams across the organization to streamline processes and enhance TechSphere’s commercial performance. The key insights and recommendations focus on the following areas.
       </body>
       <h4>
