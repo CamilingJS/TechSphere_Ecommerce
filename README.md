@@ -6,13 +6,16 @@
   <tr>
     <td width="920">
       <h2 align="center">Client Background</h2>
-      <body> Established in 2018, <strong>TechSphere</strong> is a US-based e-commerce company that sells popular consumer electronics and accessories to a global clientele. As the company has grown and expanded in the last few years, it has encountered increasingly fierce competition from peer companies as well as unique challenges and opportunities brought on by the COVID-19 pandemic. <br>
-        <br> TechSphere possesses data on over 100,000 customer transactions, encompassing various dimensions and metrics such as sales, products, marketing efforts, operations, and its loyalty program. To support the Head of Operations in evaluating the company’s performance over the past several years (2019–2022), an in-depth analysis was conducted. This comprehensive review revealed valuable insights that can be utilized by teams across the organization to streamline processes and enhance TechSphere’s commercial performance. The key insights and recommendations focus on the following areas.
+      <body><strong>TechSphere</strong> is a US-based e-commerce company that sells popular consumer electronics and accessories to a global clientele. Established in 2018, the company has grown and expanded in the last few years, it has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by the COVID-19 pandemic. <br>
+        <br><strong>TechSphere's</strong> book of business is approaching <strong>88,000</strong> customers and possesses over <strong>108,000</strong> transactions, generating sales revenue exceeding <strong>$28 million</strong>. The available eCommerce data spans various dimensions and metrics, including sales, products, marketing efforts, operations, and the company's loyalty program.
+        <br>
+        <br>Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate <strong>TechSphere’s</strong> performance over the past several years (2019–2022). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance <strong>TechSphere’s</strong> commercial performance. The key insights and recommendations focus on the following areas:
       </body>
       <h4>
-        <ul> Northstar Metrics <li>Sales trends - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).</li>
-          <li>Loyalty program evaluation - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention.</li>
+        <ul> Northstar Metrics 
+          <li>Sales trends - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).</li>
           <li>Product performance - Analyzing different product lines, market impact, and refund rates to inform strategic product decisions.</li>
+          <li>Loyalty program evaluation - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention.</li>
           <li>Operational effectiveness - Evaluating logistics and operational efficiency to identify areas for improvement.</li>
         </ul>
       </h4>
