@@ -26,42 +26,51 @@
   <tr>
     <div width="920">
       <h2 align="center">Executive Summary</h2>
-      <h3 align="center">Key Observations on the Positive Trend:</h3>
+      <h3 align="center">Sales Revenue Analysis (2019–2022)</h3>
       <div align="center">
         <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://github.com/user-attachments/assets/7fe4bfd6-242a-4235-bb40-9fbe1527543b" />
       </div>
       <td>
         <ol valign="top">
           <li>
-            <strong>Peak Performance:</strong>
+            <strong>Overall Revenue Performance</strong>
             <ul>
-              <li>The highest sales month was <strong>December 2020</strong>, reaching <strong>$1,251,721</strong>, with other strong months like <strong>September 2020</strong> and <strong>January 2021</strong> exceeding <strong>$1 million</strong> in revenue. </li>
+              <li>Total revenue over the period (2019–2022) amounts to $28.1 million.</li>
+              <li>Peak revenue was achieved in 2020 and early 2021 during the Covid-19 pandemic, followed by a gradual decline in 2022.</li>
             </ul>
           </li>
           <li>
-            <strong>Higher Lows Over Time:</strong>
+            <strong>Revenue Growth and Peak Performance:</strong>
             <ul>
-              <li>While there are some low-performing months (e.g., <strong>October 2022 at $178,275</strong>), the general baseline of sales appears to be increasing. </li>
-              <li>The lowest points in the latter part of the timeline are higher than earlier lows, indicating <strong>sustained growth even during slower months</strong>. </li>
+              <li>2020 was the strongest year, with sales consistently growing each quarter.</li>
+              <li>Q4 2020 saw the highest revenue ($1.25M in December 2020), making it the best-performing period.</li>
+              <li>January 2021 ($1.03M) also maintained strong sales, though a downward trend started afterward.</li>
+            </ul>
+          </li>
+          <li>
+            <strong>Declining Trend in 2022</strong>
+            <ul>
+              <li>Sales declined significantly in 2022, particularly in Q4 2022, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.</li>
+              <li>The Q3 and Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
             </ul>
           </li>
         </ol>
       </td>
       <td>
-        <ol valign="top" start="3">
+        <ol valign="top" start="4">
           <li>
-            <strong>Overall Growth:</strong>
+            <strong>Quarterly Insights & Seasonal Trends</strong>
             <ul>
-              <li>Despite fluctuations, the long-term trajectory shows a <strong>gradual increase in sales revenue</strong>, suggesting business expansion and improved performance. </li>
+              <li>Q3 and Q4 of each year typically show strong performance, likely due to seasonal shopping trends and marketing efforts.</li>
+              <li>Q1 2022 started well ($704K in January), but revenue quickly dropped, signaling an overall weak performance compared to previous years.</li>
             </ul>
           </li>
           <li>
-            <strong>Stability and Recovery:</strong>
+            <strong>Key Takeaways & Recommendations</strong>
             <ul>
-              <li>TechSphere experiences <strong>seasonal fluctuations</strong>, yet the trend suggests a capacity to recover from downturns and capitalize on peak sales periods. </li>
-              <li>
-                <strong>Post-peak stabilization</strong> indicates <strong>market demand resilience</strong> and possibly stronger customer retention.
-              </li>
+              <li>Investigate the causes of the 2022 decline (e.g., market changes, competition, internal factors).</li>
+              <li>Leverage high-performing periods (e.g., Q3 and Q4 of strong years) to refine marketing and sales strategies.</li>
+              <li>Reassess business strategy for 2023, focusing on pricing, promotions, and customer engagement to regain momentum.</li>
             </ul>
           </li>
         </ol>
