@@ -28,7 +28,7 @@
       <h2 align="center">Executive Summary</h2>
       <h3 align="center">Key Observations on the Positive Trend:</h3>
       <div align="center">
-        <img width="680" alt="Sales Revenue" src="https://github.com/user-attachments/assets/0f85bed2-b1f4-4d34-a0d2-d90ddb9f0899" />
+        <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://github.com/user-attachments/assets/7fe4bfd6-242a-4235-bb40-9fbe1527543b" />
       </div>
       <td>
         <ol valign="top">
