@@ -88,7 +88,13 @@
   <tr>
     <h3 align="center">Sales Trends</h3>
     <td width="920">
-      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739869532/Sales_Rev_Line_CamilingJS">
+      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739895398/Sales_Line_Graph_wnql3v">
+    </td>
+    <td width="920">
+      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739894907/Num_of_Orders_mfx5ap.png">
+    </td>
+    <td width="920">
+      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739894907/Num_of_Orders_mfx5ap.png">
     </td>
   </tr>
 </table>
