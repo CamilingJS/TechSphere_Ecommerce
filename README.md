@@ -28,7 +28,7 @@
       <h2 align="center">Executive Summary</h2>
       <h3 align="center">Sales Revenue Analysis (2019–2022)</h3>
       <div align="center">
-        <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://github.com/user-attachments/assets/7fe4bfd6-242a-4235-bb40-9fbe1527543b" />
+        <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739860743/TechSphere_Sales_Rev_CamilingJS" />
       </div>
       <td>
         <ol valign="top">
