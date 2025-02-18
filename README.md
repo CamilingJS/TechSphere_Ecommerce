@@ -4,7 +4,7 @@
 <h1 align="center">Ecommerce Performance Report</h1>
 <table align="center">
   <tr>
-    <td width="920">
+    <td width="1440">
       <h2 align="center">Client Background</h2>
       <body><strong>TechSphere</strong> is a US-based e-commerce company that sells popular consumer electronics and accessories to a global clientele. Established in 2018, the company has grown and expanded in the last few years, it has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by the COVID-19 pandemic. <br>
         <br><strong>TechSphere's</strong> book of business is approaching <strong>88,000</strong> customers and possesses over <strong>108,000</strong> transactions, generating sales revenue exceeding <strong>$28 million</strong>. The available eCommerce data spans various dimensions and metrics, including sales, products, marketing efforts, operations, and the company's loyalty program.
@@ -78,15 +78,18 @@
     </div>
   </tr>
 </table>
-<h2 align="center">Entity relationship diagram (ERD) of TechSphere's data.</h2>
+<h2 align="center">Dataset Structure and ERD (Entity relationship diagram)</h2>
+<body>The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 10,8127 records.</body>
 <div align="center">
   <img width="680" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739423466/TechSphere_ERD_CamilingJS">
 </div>
-<h2 align="center">Deep-Dive Insights</h2>
+<h2 align="center">Insights Deep-Dive</h2>
 <table align="center">
   <tr>
     <h3 align="center">Sales Trends</h3>
-    <td width="920"></td>
+    <td width="920">
+      <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739869532/Sales_Rev_Line_CamilingJS">
+    </td>
   </tr>
 </table>
 <table align="center">
