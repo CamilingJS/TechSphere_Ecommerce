@@ -87,27 +87,52 @@
 <table align="center">
   <tr>
     <h3 align="center">Sales Trends</h3>
-    <td width="920">
+     <td width="1000">
       <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739895398/Sales_Line_Graph_wnql3v">
     </td>
-    <td width="920">
+    <td width="1000">
       <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739896683/AOV_Line_Graph_CamilingJS">
     </td>
-    <td width="920">
+    <td width="1000">
       <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739894907/Num_of_Orders_mfx5ap">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      Sales Revnue
+      <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus nulla vitae justo gravida aliquam. Duis vehicula, leo sit amet elementum posuere, sapien libero ullamcorper mauris, sit amet pharetra dui.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus nulla vitae justo gravida aliquam. Duis vehicula, leo sit amet elementum posuere, sapien libero ullamcorper mauris, sit amet pharetra dui.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus nulla vitae justo gravida aliquam. Duis vehicula, leo sit amet elementum posuere, sapien libero ullamcorper mauris, sit amet pharetra dui.</li>
+      </ul>
+      AOV
+      <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus nulla vitae justo gravida aliquam. Duis vehicula, leo sit amet elementum posuere, sapien libero ullamcorper mauris, sit amet pharetra dui.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus nulla vitae justo gravida aliquam. Duis vehicula, leo sit amet elementum posuere, sapien libero ullamcorper mauris, sit amet pharetra dui.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus nulla vitae justo gravida aliquam. Duis vehicula, leo sit amet elementum posuere, sapien libero ullamcorper mauris, sit amet pharetra dui.</li>
+      </ul>
+      Order Count
+      <ul>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus nulla vitae justo gravida aliquam. Duis vehicula, leo sit amet elementum posuere, sapien libero ullamcorper mauris, sit amet pharetra dui.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus nulla vitae justo gravida aliquam. Duis vehicula, leo sit amet elementum posuere, sapien libero ullamcorper mauris, sit amet pharetra dui.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus nulla vitae justo gravida aliquam. Duis vehicula, leo sit amet elementum posuere, sapien libero ullamcorper mauris, sit amet pharetra dui.</li>
+      </ul>
     </td>
   </tr>
 </table>
 <table align="center">
   <tr>
     <h3 align="center">Loyalty Program</h3>
-    <td width="920"></td>
+    <td width="1000"></td>
   </tr>
 </table>
 <table align="center">
   <tr>
     <h3 align="center">Product Performance</h3>
-    <td width="920"></td>
+    <td width="1000"></td>
   </tr>
 </table>
 <table align="center">
@@ -116,6 +141,6 @@
     <div align="center">
       <img width="553" alt="Refund heat map of products" src="https://github.com/user-attachments/assets/237f8972-f961-4152-bc91-86dde4c52d54" />
     </div>
-    <td width="920"></td>
+    <td width="1000"></td>
   </tr>
 </table>
