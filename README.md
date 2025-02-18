@@ -28,7 +28,7 @@
       <h2 align="center">Executive Summary</h2>
       <h3 align="center">Sales Revenue Analysis (2019–2022)</h3>
       <div align="center">
-        <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739860743/TechSphere_Sales_Rev_CamilingJS" />
+        <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739861326/TechSphere_Sales_Rev_CamilingJS" />
       </div>
       <td>
         <ol valign="top">
@@ -36,7 +36,7 @@
             <strong>Overall Revenue Performance</strong>
             <ul>
               <li>Total revenue over the period (2019–2022) amounts to $28.1 million.</li>
-              <li>Peak revenue was achieved in 2020 and early 2021 during the Covid-19 pandemic, followed by a gradual decline in 2022.</li>
+              <li>The Covid-19 Pandemic years resulted in peak revenue which were achieved in 2020 and early 2021, followed by a gradual decline in 2022.</li>
             </ul>
           </li>
           <li>
