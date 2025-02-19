@@ -6,14 +6,14 @@
   <tr>
     <td width="1440">
       <h2 align="center">Client Background</h2>
-      <body><strong>TechSphere</strong> is a US-based e-commerce company that sells popular consumer electronics and accessories to a global clientele. Established in 2018, the company has grown and expanded in the last few years, it has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by the COVID-19 pandemic. <br>
-        <br><strong>TechSphere's</strong> book of business is approaching <strong>88,000</strong> customers and possesses over <strong>108,000</strong> transactions, generating sales revenue exceeding <strong>$28 million</strong>. The available eCommerce data spans various dimensions and metrics, including sales, products, marketing efforts, operations, and the company's loyalty program.
+      <body>
+        <strong>TechSphere</strong> is a US-based e-commerce company that sells popular consumer electronics and accessories to a global clientele. Established in 2018, the company has grown and expanded in the last few years, it has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by the COVID-19 pandemic. <br>
         <br>
+        <strong>TechSphere's</strong> book of business is approaching <strong>88,000</strong> customers and possesses over <strong>108,000</strong> transactions, generating sales revenue exceeding <strong>$28 million</strong>. The available eCommerce data spans various dimensions and metrics, including sales, products, marketing efforts, operations, and the company's loyalty program. <br>
         <br>Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate <strong>TechSphere’s</strong> performance over the past several years (2019–2022). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance <strong>TechSphere’s</strong> commercial performance. The key insights and recommendations focus on the following areas:
       </body>
       <h4>
-        <ul> Northstar Metrics 
-          <li>Sales trends - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).</li>
+        <ul> Northstar Metrics <li>Sales trends - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).</li>
           <li>Product performance - Analyzing different product lines, market impact, and refund rates to inform strategic product decisions.</li>
           <li>Loyalty program evaluation - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention.</li>
           <li>Operational effectiveness - Evaluating logistics and operational efficiency to identify areas for improvement.</li>
@@ -87,7 +87,7 @@
 <table align="center">
   <tr>
     <h3 align="center">Sales Trends</h3>
-     <td width="1000">
+    <td width="1000">
       <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739895398/Sales_Line_Graph_wnql3v">
     </td>
     <td width="1000">
@@ -103,76 +103,77 @@
     <td>
       <strong>Sales Revenue</strong>
       <ol>
-        <li>Sharp Decline in Q4 2022 – A Major Sales Anomaly
-          <ul>
-            <li>Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). However, in 2022, <strong>Q4 sales plummeted</strong>.</li>
-            <li>December 2022 Sales Revenue was $262K (Previous years: $458K–$1.25M). This represents a <strong>~70-80% drop</strong> from Q4 2021 and an even sharper decline compared to Q4 2020.</li>
+        <li>Sharp Decline in Q4 2022 – A Major Sales Anomaly <ul>
+            <li>Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). However, in 2022, <strong>Q4 sales plummeted</strong>. </li>
+            <li>December 2022 Sales Revenue was $262K (Previous years: $458K–$1.25M). This represents a <strong>~70-80% drop</strong> from Q4 2021 and an even sharper decline compared to Q4 2020. </li>
           </ul>
         </li>
-        <li>Post-Pandemic Sales Normalization (2020-2022 Trends)
-          <ul>
-            <li>2020 Sales Surge: The pandemic led to a significant boost in eCommerce sales, with Q2-Q4 2020 seeing a rapid increase (e.g., <strong>Q4 2020 was nearly double Q4 2019</strong>).</li>
+        <li>Post-Pandemic Sales Normalization (2020-2022 Trends) <ul>
+            <li>2020 Sales Surge: The pandemic led to a significant boost in eCommerce sales, with Q2-Q4 2020 seeing a rapid increase (e.g., <strong>Q4 2020 was nearly double Q4 2019</strong>). </li>
             <li>2021 Slight Slowdown: Sales remained high but started stabilizing, showing a decline from peak pandemic levels.</li>
-            <li>2022 Major Decline: A <strong>consistent drop in sales across all quarters</strong> suggests a post-pandemic correction, with inflation, lower consumer spending, or increased competition.</li>
+            <li>2022 Major Decline: A <strong>consistent drop in sales across all quarters</strong> suggests a post-pandemic correction, with inflation, lower consumer spending, or increased competition. </li>
           </ul>
         </li>
-        <li>Declining Growth Throughout 2022 – Indicating Weak Consumer Demand
-          <ul>
+        <li>Declining Growth Throughout 2022 – Indicating Weak Consumer Demand <ul>
             <li>Each quarter in 2022 experienced a downward trend.</li>
             <li>Q1: Started fairly strong ($704K in Jan) but lower than 2021.</li>
             <li>Q2 - Q3: Dropped further, below $500K per month and continued decline through Q3 with Aug/Sep below $400K.</li>
-            <li>Q4: <strong>Historic low, indicating critical demand issues</strong>. This suggests customer retention, pricing, or product-market fit issues. TechSphere may need to re-strategize through marketing, promotions, or change in pricing.</li>
+            <li>Q4: <strong>Historic low, indicating critical demand issues</strong>. This suggests customer retention, pricing, or product-market fit issues. TechSphere may need to re-strategize through marketing, promotions, or change in pricing. </li>
           </ul>
         </li>
       </ol>
       <strong>Average Order Value</strong>
       <ol>
-        <li> Sharp AOV Surge in 2020, followed by a Decline in 2021-2022
-          <ul>
-            <li><strong>2020 saw the highest AOV growth, peaking at $322 (Oct 2020)</strong> compared to $246 (Nov 2019), aligning with pandemic-driven eCommerce boom.</li>
+        <li> Sharp AOV Surge in 2020, followed by a Decline in 2021-2022 <ul>
+            <li>
+              <strong>2020 saw the highest AOV growth, peaking at $322 (Oct 2020)</strong> compared to $246 (Nov 2019), aligning with pandemic-driven eCommerce boom.
+            </li>
             <li>Post-pandemic correction (2021-2022) led to a steady decline, with AOV in 2022 returning close to 2019 levels (~$234-$237).</li>
           </ul>
         </li>
-        <li>2022 AOV is lower and more volatile compared to previous years
-          <ul>
-            <li><strong>2022 AOV fluctuates significantly </strong> between $216 (Oct) and $256 (Sep).</li>
+        <li>2022 AOV is lower and more volatile compared to previous years <ul>
+            <li>
+              <strong>2022 AOV fluctuates significantly </strong> between $216 (Oct) and $256 (Sep).
+            </li>
             <li>Q4 2022 AOV is significantly lower than Q4 2020 & 2021, meaning holiday spending per order has dropped.</li>
           </ul>
         </li>
-        <li>Long-Term AOV Decline May Indicate Price Sensitivity
-          <ul>
+        <li>Long-Term AOV Decline May Indicate Price Sensitivity <ul>
             <li>From a peak of ~$322 in 2020, AOV steadily dropped to ~$234 in 2022 which is 27% drop.</li>
           </ul>
         </li>
       </ol>
       <strong>Order Count</strong>
       <ol>
-        <li>Order counts closely follow sales revenue, indicating that the decline in revenue is primarily due to <strong>fewer orders</strong> rather than a drop in AOV in 2022.</li>
-        <li>Total orders <strong>dropped by 38%</strong> from 2021 to 2022.</li>
-        <li>The sales anamoly and decline <strong>started in mid-2022</strong>, with orders falling from 2,034 in July to just 825 in October.</li>
-        <li>While people are spending slightly less per order, the <strong>decline in order frequency</strong> directly results in lower sales revenue.</li>
+        <li>Order counts closely follow sales revenue, indicating that the decline in revenue is primarily due to <strong>fewer orders</strong> rather than a drop in AOV in 2022. </li>
+        <li>Total orders <strong>dropped by 38%</strong> from 2021 to 2022. </li>
+        <li>The sales anamoly and decline <strong>started in mid-2022</strong>, with orders falling from 2,034 in July to just 825 in October. </li>
+        <li>While people are spending slightly less per order, the <strong>decline in order frequency</strong> directly results in lower sales revenue. </li>
       </ol>
     </td>
   </tr>
 </table>
- <div align="center">
-   <table>
-     <tr> <h4><strong>Comparison of Month-Over-Year Sales Growth and AOV Growth</strong></h4>
-       <td>
-         <img width="900" alt="Sales Growth vs. AOV Growth" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739946436/Sales_and_AOV_Growth_MOY_CamilingJS" />
-       </td>
-     </tr>
-   </table>
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <h4>
+        <strong>Comparison of Month-Over-Year Sales Growth and AOV Growth</strong>
+      </h4>
+      <td>
+        <img width="900" alt="Sales Growth vs. AOV Growth" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739946436/Sales_and_AOV_Growth_MOY_CamilingJS" />
+      </td>
+    </tr>
+  </table>
+</div>
 <table align="center">
   <tr>
-    <h3 align="center">Loyalty Program</h3>
+    <h3 align="center">Product Performance</h3>
     <td width="1000"></td>
   </tr>
 </table>
 <table align="center">
   <tr>
-    <h3 align="center">Product Performance</h3>
+    <h3 align="center">Loyalty Program</h3>
     <td width="1000"></td>
   </tr>
 </table>
