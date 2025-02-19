@@ -98,7 +98,6 @@
     </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <td>
@@ -156,6 +155,15 @@
     </td>
   </tr>
 </table>
+ <div align="center">
+   <table>
+     <tr> <h4><strong>Comparison of Month-Over-Year Sales Growth and AOV Growth</strong></h4>
+       <td>
+         <img width="900" alt="Sales Growth vs. AOV Growth" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739944736/Sales_and_AOV_Growth_MOY_CamilingJS" />
+       </td>
+     </tr>
+   </table>
+  </div>
 <table align="center">
   <tr>
     <h3 align="center">Loyalty Program</h3>
