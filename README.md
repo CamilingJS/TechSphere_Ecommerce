@@ -50,7 +50,7 @@
           <li>
             <strong>Declining Trend in 2022</strong>
             <ul>
-              <li>Sales declined significantly in 2022, particularly in Q4 2022, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.</li>
+              <li>A sales anomaly and significant decline occurred in 2022, particularly in Q4, with October ($178K), November ($208K), and December ($262K) marking the lowest revenue months.</li>
               <li>The Q3 and Q4 revenue decline suggests a major downturn, likely caused by external market conditions, reduced consumer demand, or internal operational shifts.</li>
             </ul>
           </li>
