@@ -106,14 +106,14 @@
         <li>Sharp Decline in Q4 2022 – A Major Sales Anomaly
           <ul>
             <li>Historically, Q4 (Oct-Dec) has been the strongest quarter due to holiday shopping (Black Friday, Cyber Monday, Christmas sales). However, in 2022, <strong>Q4 sales plummeted</strong>.</li>
-            <li>December 2022 Sales Revenue was $262K (Previous years: $458K–$1.25M). This represents a ~70-80% drop from Q4 2021 and an even sharper decline compared to Q4 2020.</li>
+            <li>December 2022 Sales Revenue was $262K (Previous years: $458K–$1.25M). This represents a <strong>~70-80% drop</strong> from Q4 2021 and an even sharper decline compared to Q4 2020.</li>
           </ul>
         </li>
         <li>Post-Pandemic Sales Normalization (2020-2022 Trends)
           <ul>
-            <li>2020 Sales Surge: The pandemic led to a significant boost in eCommerce sales, with Q2-Q4 2020 seeing a rapid increase (e.g., Q4 2020 was nearly double Q4 2019).</li>
+            <li>2020 Sales Surge: The pandemic led to a significant boost in eCommerce sales, with Q2-Q4 2020 seeing a rapid increase (e.g., <strong>Q4 2020 was nearly double Q4 2019</strong>).</li>
             <li>2021 Slight Slowdown: Sales remained high but started stabilizing, showing a decline from peak pandemic levels.</li>
-            <li>2022 Major Decline: A consistent drop in sales across all quarters suggests a post-pandemic correction, with inflation, lower consumer spending, or increased competition.</li>
+            <li>2022 Major Decline: A <strong>consistent drop in sales across all quarters</strong> suggests a post-pandemic correction, with inflation, lower consumer spending, or increased competition.</li>
           </ul>
         </li>
         <li>Declining Growth Throughout 2022 – Indicating Weak Consumer Demand
@@ -121,7 +121,7 @@
             <li>Each quarter in 2022 experienced a downward trend.</li>
             <li>Q1: Started fairly strong ($704K in Jan) but lower than 2021.</li>
             <li>Q2 - Q3: Dropped further, below $500K per month and continued decline through Q3 with Aug/Sep below $400K.</li>
-            <li>Q4: Historic low, indicating critical demand issues. This suggests customer retention, pricing, or product-market fit issues. TechSphere may need to re-strategize through marketing, promotions, or change in pricing.</li>
+            <li>Q4: <strong>Historic low, indicating critical demand issues</strong>. This suggests customer retention, pricing, or product-market fit issues. TechSphere may need to re-strategize through marketing, promotions, or change in pricing.</li>
           </ul>
         </li>
       </ol>
@@ -129,13 +129,13 @@
       <ol>
         <li> Sharp AOV Surge in 2020, followed by a Decline in 2021-2022
           <ul>
-            <li>2020 saw the highest AOV growth, peaking at $322 (Oct 2020) compared to $246 (Nov 2019), aligning with pandemic-driven eCommerce boom.</li>
+            <li><strong>2020 saw the highest AOV growth, peaking at $322 (Oct 2020)</strong> compared to $246 (Nov 2019), aligning with pandemic-driven eCommerce boom.</li>
             <li>Post-pandemic correction (2021-2022) led to a steady decline, with AOV in 2022 returning close to 2019 levels (~$234-$237).</li>
           </ul>
         </li>
         <li>2022 AOV is lower and more volatile compared to previous years
           <ul>
-            <li>2022 AOV fluctuates significantly between $216 (Oct) and $256 (Sep).</li>
+            <li><strong>2022 AOV fluctuates significantly </strong> between $216 (Oct) and $256 (Sep).</li>
             <li>Q4 2022 AOV is significantly lower than Q4 2020 & 2021, meaning holiday spending per order has dropped.</li>
           </ul>
         </li>
