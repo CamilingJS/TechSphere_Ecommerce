@@ -168,6 +168,9 @@
 <table align="center">
   <tr>
     <h3 align="center">Product Performance</h3>
+     <div align="center">
+        <img width="1000" alt="" src="" />
+      </div>
     <td width="1000"></td>
   </tr>
 </table>
