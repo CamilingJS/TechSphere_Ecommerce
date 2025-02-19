@@ -159,7 +159,7 @@
    <table>
      <tr> <h4><strong>Comparison of Month-Over-Year Sales Growth and AOV Growth</strong></h4>
        <td>
-         <img width="900" alt="Sales Growth vs. AOV Growth" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739944736/Sales_and_AOV_Growth_MOY_CamilingJS" />
+         <img width="900" alt="Sales Growth vs. AOV Growth" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739946436/Sales_and_AOV_Growth_MOY_CamilingJS" />
        </td>
      </tr>
    </table>
