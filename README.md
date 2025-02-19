@@ -147,10 +147,10 @@
       </ol>
       <strong>Order Count</strong>
       <ol>
-        <li>Order counts closely follow Sales Revenue, indicating that the decline in revenue is primarily due to <strong>fewer orders</strong> and not due to the AOV drop in 2022.</li>
-        <li>Total orders from 2021 to 2022 <strong>dropped 38%</strong>.</li>
-        <li>The decline <strong>started mid-2022</strong>, with orders dropping from 2,034 in July to just 825 in October.</li>
-        <li>While people are spending slightly less per order, declining order frequency directly results to lower sales revenue.</li>
+        <li>Order counts closely follow sales revenue, indicating that the decline in revenue is primarily due to <strong>fewer orders</strong> rather than a drop in AOV in 2022.</li>
+        <li>Total orders <strong>dropped by 38%</strong> from 2021 to 2022.</li>
+        <li>The sales anamoly and decline <strong>started in mid-2022</strong>, with orders falling from 2,034 in July to just 825 in October.</li>
+        <li>While people are spending slightly less per order, the <strong>decline in order frequency</strong> directly results in lower sales revenue.</li>
       </ol>
     </td>
   </tr>
