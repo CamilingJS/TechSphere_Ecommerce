@@ -131,7 +131,7 @@
             <li>Post-pandemic correction (2021-2022) led to a steady decline, with AOV in 2022 returning close to 2019 levels (~$234-$237).</li>
           </ul>
         </li>
-        <li>2022 AOV is lower and more volatile compared to previous years <ul>
+        <li>2022 AOV is lower and relatively more volatile compared to previous years <ul>
             <li>
               <strong>2022 AOV fluctuates significantly </strong> between $216 (Oct) and $256 (Sep).
             </li>
@@ -140,6 +140,8 @@
         </li>
         <li>Long-Term AOV Decline May Indicate Price Sensitivity <ul>
             <li>From a peak of ~$322 in 2020, AOV steadily dropped to ~$234 in 2022 which is 27% drop.</li>
+            <li>Over the span of four years, the change in AOV growth has been relatively constant, indicating minimal changes in product pricing (as illustrated in Sales Growth vs. AOV Growth below).</li>
+            <li>AOV in 2022 is likely not a major factor in the decline of sales that year.</li>
           </ul>
         </li>
       </ol>
