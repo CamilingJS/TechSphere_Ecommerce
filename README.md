@@ -179,6 +179,7 @@
    <tr>
     <h1 align="center">Sales Trends</h1>
     <td width="1000">
+      <h3>AOV Over Time (2019-2022)</h3>
       <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/AOV_Products_BarGraph_CamilingJS">
     </td>
     <td width="1000">
