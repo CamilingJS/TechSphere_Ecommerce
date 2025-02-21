@@ -176,6 +176,16 @@
       </div>
     <td width="1000"></td>
   </tr>
+   <tr>
+    <h1 align="center">Sales Trends</h1>
+    <td width="1000">
+      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/AOV_Products_BarGraph_CamilingJS">
+    </td>
+    <td width="1000">
+      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/AOV_Products_BarGraph_CamilingJS">
+    </td>
+  </tr>
+</table>
 </table>
 <table align="center">
   <tr>
