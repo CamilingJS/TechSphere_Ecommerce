@@ -171,7 +171,7 @@
   <tr>
      <h1 align="center">Product Performance</h1>
       <div align="center">
-        <h3>Product Sales Fluctuations Caused by Seasonal Trends</h3>
+        <h3>Product Sales Surged in 2020 but were not Sustained at High Levels</h3>
         <img width="1000" alt="Product sales graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740121052/Product_Sales_Line_Graph_CamilingJS" />
       </div>
     <tr>>
