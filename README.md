@@ -215,6 +215,7 @@
       <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/AOV_Products_BarGraph_CamilingJS">
     </td>
     <td width="1000">
+      <h3>Place holder title and graph</h3>
       <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/AOV_Products_BarGraph_CamilingJS">
     </td>
   </tr>
