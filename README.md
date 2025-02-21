@@ -25,7 +25,7 @@
 <table align="center">
   <tr>
     <div width="920">
-      <h2 align="center">Executive Summary</h2>
+      <h1 align="center">Executive Summary</h1>
       <h3 align="center">Sales Revenue Analysis (2019–2022)</h3>
       <div align="center">
         <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739861326/TechSphere_Sales_Rev_CamilingJS" />
@@ -83,10 +83,10 @@
 <div align="center">
   <img width="680" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739423466/TechSphere_ERD_CamilingJS">
 </div>
-<h2 align="center">Insights Deep-Dive</h2>
+<h1 align="center">Insights Deep-Dive</h1>
 <table align="center">
   <tr>
-    <h3 align="center">Sales Trends</h3>
+    <h1 align="center">Sales Trends</h1>
     <td width="1000">
       <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739895398/Sales_Line_Graph_wnql3v">
     </td>
@@ -169,22 +169,23 @@
 </div>
 <table align="center">
   <tr>
-    <h3 align="center">Product Performance</h3>
-     <div align="center">
-        <img width="1000" alt="" src="" />
+    <h1 align="center">Product Performance</h1>
+      <div align="center">
+        <h3>Product Sales Fluctuations Caused by Seasonal Trends</h3>
+        <img width="1000" alt="Product sales graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740121052/Product_Sales_Line_Graph_CamilingJS" />
       </div>
     <td width="1000"></td>
   </tr>
 </table>
 <table align="center">
   <tr>
-    <h3 align="center">Loyalty Program</h3>
+    <h1 align="center">Loyalty Program</h1>
     <td width="1000"></td>
   </tr>
 </table>
 <table align="center">
   <tr>
-    <h3 align="center">Refund rates</h3>
+    <h1 align="center">Refund rates</h1>
     <div align="center">
       <img width="553" alt="Refund heat map of products" src="https://github.com/user-attachments/assets/237f8972-f961-4152-bc91-86dde4c52d54" />
     </div>
