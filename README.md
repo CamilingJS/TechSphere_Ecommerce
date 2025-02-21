@@ -169,16 +169,48 @@
 </div>
 <table align="center">
   <tr>
-    <h1 align="center">Product Performance</h1>
+     <h1 align="center">Product Performance</h1>
       <div align="center">
         <h3>Product Sales Fluctuations Caused by Seasonal Trends</h3>
         <img width="1000" alt="Product sales graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740121052/Product_Sales_Line_Graph_CamilingJS" />
       </div>
-    <td width="1000"></td>
+    <tr>>
   </tr>
-   <tr>
-    <h1 align="center">Sales Trends</h1>
-    <td width="1000">
+</table>
+<table aign="center">
+  <tr>
+      <td width="333">
+      <h3>Test</h3>
+      <ul>
+        <li>Highest Grossing Products: 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air account for 85% of total sales, generating $9.8M, $7.7M, and $6.2M respectively</li>
+        <li>Most Expensive Products (AOV): MacBook Air ($1,591), ThinkPad ($1,101), and Apple iPhone ($741) lead products in terms of AOV</li>
+        <li>Most Ordered Products: Apple AirPods lead in order volume with 48K orders, followed by 27-inch 4K Gaming Monitor with 23K orders, and Samsung Charging Cable Pack with 21K orders</li>
+        <li>Weakest Product: Across all metrics, the Bose Soundsport underperformed, with just $3K in total sales, 27 orders, and an AOV of $124</li>
+      </ul>
+      </td>
+  <td width="333">
+      <h3>Test</h3>
+      <ul>
+        <li>Highest Grossing Products: 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air account for 85% of total sales, generating $9.8M, $7.7M, and $6.2M respectively</li>
+        <li>Most Expensive Products (AOV): MacBook Air ($1,591), ThinkPad ($1,101), and Apple iPhone ($741) lead products in terms of AOV</li>
+        <li>Most Ordered Products: Apple AirPods lead in order volume with 48K orders, followed by 27-inch 4K Gaming Monitor with 23K orders, and Samsung Charging Cable Pack with 21K orders</li>
+        <li>Weakest Product: Across all metrics, the Bose Soundsport underperformed, with just $3K in total sales, 27 orders, and an AOV of $124</li>
+      </ul>
+      </td>
+      <td width="333">
+      <h3>Test</h3>
+      <ul>
+        <li>Highest Grossing Products: 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air account for 85% of total sales, generating $9.8M, $7.7M, and $6.2M respectively</li>
+        <li>Most Expensive Products (AOV): MacBook Air ($1,591), ThinkPad ($1,101), and Apple iPhone ($741) lead products in terms of AOV</li>
+        <li>Most Ordered Products: Apple AirPods lead in order volume with 48K orders, followed by 27-inch 4K Gaming Monitor with 23K orders, and Samsung Charging Cable Pack with 21K orders</li>
+        <li>Weakest Product: Across all metrics, the Bose Soundsport underperformed, with just $3K in total sales, 27 orders, and an AOV of $124</li>
+      </ul>
+      </td>
+</tr>
+</table>
+<table align="center">
+    <tr align="center">
+      <td width="1000">
       <h3>AOV Over Time (2019-2022)</h3>
       <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/AOV_Products_BarGraph_CamilingJS">
     </td>
@@ -187,6 +219,8 @@
     </td>
   </tr>
 </table>
+
+
 </table>
 <table align="center">
   <tr>
