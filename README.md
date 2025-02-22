@@ -182,28 +182,28 @@
       <td width="333">
       <h3>Test</h3>
       <ul>
-        <li>Highest Grossing Products: 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air account for 85% of total sales, generating $9.8M, $7.7M, and $6.2M respectively</li>
-        <li>Most Expensive Products (AOV): MacBook Air ($1,591), ThinkPad ($1,101), and Apple iPhone ($741) lead products in terms of AOV</li>
-        <li>Most Ordered Products: Apple AirPods lead in order volume with 48K orders, followed by 27-inch 4K Gaming Monitor with 23K orders, and Samsung Charging Cable Pack with 21K orders</li>
-        <li>Weakest Product: Across all metrics, the Bose Soundsport underperformed, with just $3K in total sales, 27 orders, and an AOV of $124</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
       </ul>
       </td>
   <td width="333">
       <h3>Test</h3>
       <ul>
-        <li>Highest Grossing Products: 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air account for 85% of total sales, generating $9.8M, $7.7M, and $6.2M respectively</li>
-        <li>Most Expensive Products (AOV): MacBook Air ($1,591), ThinkPad ($1,101), and Apple iPhone ($741) lead products in terms of AOV</li>
-        <li>Most Ordered Products: Apple AirPods lead in order volume with 48K orders, followed by 27-inch 4K Gaming Monitor with 23K orders, and Samsung Charging Cable Pack with 21K orders</li>
-        <li>Weakest Product: Across all metrics, the Bose Soundsport underperformed, with just $3K in total sales, 27 orders, and an AOV of $124</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
       </ul>
       </td>
       <td width="333">
       <h3>Test</h3>
       <ul>
-        <li>Highest Grossing Products: 27-inch 4K Gaming Monitor, Apple AirPods, and MacBook Air account for 85% of total sales, generating $9.8M, $7.7M, and $6.2M respectively</li>
-        <li>Most Expensive Products (AOV): MacBook Air ($1,591), ThinkPad ($1,101), and Apple iPhone ($741) lead products in terms of AOV</li>
-        <li>Most Ordered Products: Apple AirPods lead in order volume with 48K orders, followed by 27-inch 4K Gaming Monitor with 23K orders, and Samsung Charging Cable Pack with 21K orders</li>
-        <li>Weakest Product: Across all metrics, the Bose Soundsport underperformed, with just $3K in total sales, 27 orders, and an AOV of $124</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
+        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
       </ul>
       </td>
 </tr>
