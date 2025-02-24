@@ -86,7 +86,7 @@
 <h1 align="center">Insights Deep-Dive</h1>
 <table align="center">
   <tr>
-    <h1 align="center">Sales Trends</h1>
+    <h1 align="center">Sales Shifts</h1>
     <td width="1000">
       <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739895398/Sales_Line_Graph_wnql3v">
     </td>
@@ -225,13 +225,13 @@
 </table>
 <table align="center">
   <tr>
-    <h1 align="center">Loyalty Program</h1>
+    <h1 align="center">Loyalty Program Learnings</h1>
     <td width="1000"></td>
   </tr>
 </table>
 <table align="center">
   <tr>
-    <h1 align="center">Refund rates</h1>
+    <h1 align="center">Refund Rates</h1>
     <div align="center">
       <img width="553" alt="Refund heat map of products" src="https://github.com/user-attachments/assets/237f8972-f961-4152-bc91-86dde4c52d54" />
     </div>
