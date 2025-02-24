@@ -215,8 +215,8 @@
       <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/AOV_Products_BarGraph_CamilingJS">
     </td>
     <td width="1000">
-      <h3>Place holder title and graph</h3>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/AOV_Products_BarGraph_CamilingJS">
+      <h3>Seasonality of Product Sales</h3>
+      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740385055/Sales_Heatmap_CamilingJS">
     </td>
   </tr>
 </table>
@@ -232,6 +232,24 @@
 <table align="center">
   <tr>
     <h1 align="center">Refund Rates</h1>
+    <div align="center">
+      <img width="553" alt="Refund heat map of products" src="https://github.com/user-attachments/assets/237f8972-f961-4152-bc91-86dde4c52d54" />
+    </div>
+    <td width="1000"></td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <h1 align="center">Regional Results</h1>
+    <div align="center">
+      <img width="553" alt="Refund heat map of products" src="https://github.com/user-attachments/assets/237f8972-f961-4152-bc91-86dde4c52d54" />
+    </div>
+    <td width="1000"></td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <h1 align="center">Recommendations</h1>
     <div align="center">
       <img width="553" alt="Refund heat map of products" src="https://github.com/user-attachments/assets/237f8972-f961-4152-bc91-86dde4c52d54" />
     </div>
