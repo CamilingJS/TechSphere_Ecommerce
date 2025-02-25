@@ -226,7 +226,30 @@
 <table align="center">
   <tr>
     <h1 align="center">Loyalty Program Learnings</h1>
-    <td width="1000"></td>
+    <table align="center">
+    <tr align="center">
+      <td width="1000">
+      <h3>Average Order Value by Loyalty Status</h3>
+      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740467578/AOV_by_Loyalty_Status_CamilingJS">
+    </td>
+    <td width="1000">
+      <h3>Place holder graph</h3>
+      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740467578/AOV_by_Loyalty_Status_CamilingJS.png">
+    </td>
+  </tr>
+</table>
+    <table>
+      <tr>
+        <td>
+          <ul>
+            <li>Loyalty members have sustained AOV growth beyond the pandemic boom, with sales revenue increasing from $0.4M in 2019 to $2.7M in 2022, and an AOV growth rate of 18% from 2019 to 2022. Loyalty members purchase higher-priced products and place more orders despite economic conditions.</li>
+            <li>Non-loyalty members have not sustained sales revenue and AOV growth beyond the pandemic boom, with sales revenue decreasing from $3.4M in 2019 to $2.2M in 2022, along with an AOV decline of 8% during the same period. They are more susceptible to economic downturns.</li>
+            <li>In 2022, loyalty members spent almost $31 more on average than non-members ($245 to $214). Annual order value (AOV) for members has steadily increased year-over-year, climbing 1.1% from 2021 while non-member AOV declined 18.7%.</li>
+            <li>Non-members have historically outspent on their first orders with the company, but on returning orders members outspent by nearly $60 in 2022.</li>
+          </ul>
+        </td>
+      </tr>
+    </table>
   </tr>
 </table>
 <table align="center">
