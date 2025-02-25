@@ -233,7 +233,7 @@
       <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740467578/AOV_by_Loyalty_Status_CamilingJS">
     </td>
     <td width="1000">
-      <h3>Place holder graph</h3>
+      <h3>Number of Orders</h3>
       <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740467578/AOV_by_Loyalty_Status_CamilingJS.png">
     </td>
   </tr>
