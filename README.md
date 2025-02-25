@@ -180,30 +180,30 @@
 <table aign="center">
   <tr>
       <td width="333" valign="top">
-      <h3>Test</h3>
+      <h3>The Best and Worst</h3>
       <ul>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
+        <li>The 27 Inch 4K Gaming Monitor had consistently strong sales year over year totaling $9,850,744, and it is the highest revenue generating product overall.</li>
+        <li>The second and third best-performing products in terms of sales are the Apple AirPods Headphones ($7,739,617 total) and the MacBook Air Laptop ($6,295,309 total).</li>
+        <li>The Bose SoundSport Headphones ($3,339.04 total) had extremely low sales compared to other products, with no sales recorded in multiple months.</li>
+        <li>Despite being typically a high-demand product, the Apple Iphone is the second lowest sales performer with $213,327 total sales. </li>
       </ul>
       </td>
   <td width="333" valign="top">
-      <h3>Test</h3>
+      <h3>AOV Over Time</h3>
       <ul>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
+        <li>The AOV peaked in 2020 at $300.16 and then declined in 2021 ($254.71) and 2022 ($229.91).</li>
+        <li>MacBook Air Laptop ($1,591), ThinkPad Laptop ($1,101), and Apple Iphone ($741) are the biggest contributors to AOV. </li>
+        <li>Samsung Charging Cable Pack and Samsung Webcam have relatively low price points ($20.20 and $50.43 on average). They are stable but do not significantly impact AOV.</li>
+        <li>AOV is trending downward, but mainly due to a decline of product sales.</li>
       </ul>
       </td>
       <td width="333" valign="top">
-      <h3>Test</h3>
+      <h3>Heat Map Findings</h3>
       <ul>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
-        <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
+        <li>Consistent Q4 spikes, likely due to Black Friday, Cyber Monday, and the holiday shopping season.</li>
+        <li>Biggest Q4 Performer: The 27-inch 4K Gaming Monitor and Apple AirPods saw the biggest spikes.</li>
+        <li>Sales tend to dip in January and February after the holiday season in Q1.</li>
+        <li>MacBook Air, ThinkPad, and the 27-inch 4K Gaming Monitor maintain consistent demand, as sales through Q2 and Q3 remain relatively stable but lower than in Q4.</li>
       </ul>
       </td>
 </tr>
