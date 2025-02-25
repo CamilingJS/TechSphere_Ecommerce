@@ -30,8 +30,8 @@
       <div align="center">
         <img width="1000" alt="Sales revenue graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739861326/TechSphere_Sales_Rev_CamilingJS" />
       </div>
-      <td>
-        <ol valign="top">
+      <td width="460" valign="top">
+        <ol>
           <li>
             <strong>Overall Revenue Performance</strong>
             <ul>
@@ -56,8 +56,8 @@
           </li>
         </ol>
       </td>
-      <td>
-        <ol valign="top" start="4">
+      <td width="460" valign="top">
+        <ol start="4">
           <li>
             <strong>Quarterly Insights & Seasonal Trends</strong>
             <ul>
@@ -179,7 +179,7 @@
 </table>
 <table aign="center">
   <tr>
-      <td width="333">
+      <td width="333" valign="top">
       <h3>Test</h3>
       <ul>
         <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
@@ -188,7 +188,7 @@
         <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
       </ul>
       </td>
-  <td width="333">
+  <td width="333" valign="top">
       <h3>Test</h3>
       <ul>
         <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
@@ -197,7 +197,7 @@
         <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
       </ul>
       </td>
-      <td width="333">
+      <td width="333" valign="top">
       <h3>Test</h3>
       <ul>
         <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed lobortis, purus at ultrices volutpat, massa nunc pulvinar leo, ac tincidunt sem nibh vel neque.</li>
@@ -215,7 +215,7 @@
       <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740156855/AOV_Products_BarGraph_CamilingJS">
     </td>
     <td width="1000">
-      <h3>Seasonality of Product Sales</h3>
+      <h3>Product Sales Heat Map by Quarter</h3>
       <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740385055/Sales_Heatmap_CamilingJS">
     </td>
   </tr>
