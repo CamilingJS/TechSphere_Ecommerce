@@ -230,11 +230,11 @@
     <tr align="center">
       <td width="1000">
       <h3>Average Order Value by Loyalty Status</h3>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740467578/AOV_by_Loyalty_Status_CamilingJS">
+      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740552359/AOV_by_Loyalty_Status_Camiling">
     </td>
     <td width="1000">
       <h3>Number of Orders</h3>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740467578/AOV_by_Loyalty_Status_CamilingJS.png">
+      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740551296/OrderCount_by_Loyalty_Status_CamilingJS">
     </td>
   </tr>
 </table>
