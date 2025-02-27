@@ -33,16 +33,9 @@
       <td width="460" valign="top">
         <ol>
           <li>
-            <strong>Overall Revenue Performance</strong>
-            <ul>
-              <li>Total revenue over the period (2019–2022) amounts to $28.1 million.</li>
-              <li>The Covid-19 Pandemic years resulted in peak revenue which were achieved in 2020 and early 2021, followed by a gradual decline in 2022.</li>
-            </ul>
-          </li>
-          <li>
             <strong>Revenue Growth and Peak Performance:</strong>
             <ul>
-              <li>2020 was the strongest year, with sales consistently growing each quarter.</li>
+              <li>2020 was the strongest year, with sales consistently growing each quarter, due to Covid-19 Pandemic.</li>
               <li>Q4 2020 saw the highest revenue ($1.25M in December 2020), making it the best-performing period.</li>
               <li>January 2021 ($1.03M) also maintained strong sales, though a downward trend started afterward.</li>
             </ul>
@@ -57,7 +50,7 @@
         </ol>
       </td>
       <td width="460" valign="top">
-        <ol start="4">
+        <ol start="3">
           <li>
             <strong>Quarterly Insights & Seasonal Trends</strong>
             <ul>
