@@ -287,7 +287,6 @@
   <tr>
     <h1 align="center">Recommendations</h1>
     <div align="center">
-      <img width="553" alt="Refund heat map of products" src="https://github.com/user-attachments/assets/237f8972-f961-4152-bc91-86dde4c52d54" />
     </div>
     <td width="1000"></td>
   </tr>
