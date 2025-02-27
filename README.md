@@ -246,22 +246,40 @@
   </tr>
 </table>
 <table align="center">
+  <h1 align="center">Refund Rates</h1>
   <tr>
-    <h1 align="center">Refund Rates</h1>
-    <div valign="top" align="center">
-      <h3>Rate of Refund per Product Type</h3>
-      <img width="600" alt="Refund heat map of products" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740637891/Refund_Rates_Per_Product_Heatmap_CamilingJS" />
+    <td width="500">
+       <div valign="top" align="center">
+      <h3>Refund Rate per Product Type</h3>
+      <img alt="Refund heat map of products" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740637891/Refund_Rates_Per_Product_Heatmap_CamilingJS" />
     </div>
-    <td width="1000"></td>
+    </td>
+    <td valign="top" width="500">
+      <ul>
+        <li>Laptops have the lowest retention rate, with the highest return rate year over year being the ThinkPad Laptop, followed by the MacBook Air Laptop.</li>
+        <li>Coincidentally, these two items have the highest AOV and are TechSphere's most expensive products.</li>
+        <li>The least returned product is the Bose SoundSport Headphones, with a return rate of 0%, followed by the Samsung Charging Cable Pack, with an average return rate of 2%.</li>
+        <li>However, the Bose SoundSport Headphones are the least frequently purchased product, and the Samsung Charging Cable Pack ranks in the bottom half of purchase orders.</li>
+      </ul>
+    </td>
   </tr>
 </table>
 <table align="center">
-  <tr>
-    <h1 align="center">Regional Results</h1>
-    <div align="center">
-      <img width="553" alt="Refund heat map of products" src="https://github.com/user-attachments/assets/237f8972-f961-4152-bc91-86dde4c52d54" />
-    </div>
-    <td width="1000"></td>
+  <h1 align="center">Regional Results</h1>
+  <tr valign="top">
+     <td width="500">
+      <ul>
+        <li>test</li>
+        <li>test</li>
+        <li>test</li>
+        <li>test</li>
+      </ul>
+    </td>
+    <td>
+       <div align="center">
+      <img width="500" alt="Refund heat map of products" src="https://github.com/user-attachments/assets/237f8972-f961-4152-bc91-86dde4c52d54" />
+      </div>
+    </td>
   </tr>
 </table>
 <table align="center">
