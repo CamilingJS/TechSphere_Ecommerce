@@ -260,6 +260,7 @@
         <li>Coincidentally, these two items have the highest AOV and are TechSphere's most expensive products.</li>
         <li>The least returned product is the Bose SoundSport Headphones, with a return rate of 0%, followed by the Samsung Charging Cable Pack, with an average return rate of 2%.</li>
         <li>However, the Bose SoundSport Headphones are the least frequently purchased product, and the Samsung Charging Cable Pack ranks in the bottom half of purchase orders.</li>
+        <li>For 2022, there were no recorded returns for any product.</li>
       </ul>
     </td>
   </tr>
