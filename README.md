@@ -209,7 +209,7 @@
     </td>
     <td width="1000">
       <h3>Product Sales Heat Map by Quarter</h3>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740385055/Sales_Heatmap_CamilingJS">
+      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740628587/Sales_Heatmap_CamilingJS">
     </td>
   </tr>
 </table>
