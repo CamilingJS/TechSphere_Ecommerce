@@ -35,7 +35,7 @@
           <li>
             <strong>Revenue Growth and Peak Performance:</strong>
             <ul>
-              <li>2020 was the strongest year, with sales consistently growing each quarter, due to Covid-19 Pandemic.</li>
+              <li>2020 was the strongest year, with sales consistently growing each quarter as a result of the COVID-19 pandemic.</li>
               <li>Q4 2020 saw the highest revenue ($1.25M in December 2020), making it the best-performing period.</li>
               <li>January 2021 ($1.03M) also maintained strong sales, though a downward trend started afterward.</li>
             </ul>
