@@ -267,19 +267,17 @@
 </table>
 <table align="center">
   <h1 align="center">Regional Results</h1>
+      <div align="center">
+        <img width="1000" alt="Sales by region" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740678025/Regional_Radars_Camiling" />
+      </div>
   <tr valign="top">
-     <td width="500">
+     <td width="900">
       <ul>
         <li>test</li>
         <li>test</li>
         <li>test</li>
         <li>test</li>
       </ul>
-    </td>
-    <td>
-       <div align="center">
-      <img width="500" alt="Refund heat map of products" src="https://github.com/user-attachments/assets/237f8972-f961-4152-bc91-86dde4c52d54" />
-      </div>
     </td>
   </tr>
 </table>
