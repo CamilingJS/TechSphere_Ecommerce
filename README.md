@@ -248,8 +248,9 @@
 <table align="center">
   <tr>
     <h1 align="center">Refund Rates</h1>
-    <div align="center">
-      <img width="553" alt="Refund heat map of products" src="https://github.com/user-attachments/assets/237f8972-f961-4152-bc91-86dde4c52d54" />
+    <div valign="top" align="center">
+      <h3>Rate of Refund per Product Type</h3>
+      <img width="600" alt="Refund heat map of products" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740637891/Refund_Rates_Per_Product_Heatmap_CamilingJS" />
     </div>
     <td width="1000"></td>
   </tr>
