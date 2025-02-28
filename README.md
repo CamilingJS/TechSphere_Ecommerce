@@ -273,10 +273,14 @@
   <tr valign="top">
      <td width="900">
       <ul>
-        <li>test</li>
-        <li>test</li>
-        <li>test</li>
-        <li>test</li>
+        <li>The North American region contributes the most to sales revenue for each TechSphere product, with an average of 52% of total sales per product.</li>
+        <li>In contrast, TechSphere sales have underperformed in the Latin American region, where each product accounts for only an average of 6% of total sales.</li>
+        <li>Samsung Webcam see their highest sales rate in North America, with 58% of total sales occurring in this region.</li>
+        <li>The shape of the radar graph suggests that regional demand varies significantly across different areas.</li>
+        <br>
+        <li>The 27-Inch 4K Gaming Monitor is the most popular product across all regions, accounting for 35% of total sales.</li>
+        <li>Meanwhile, the Bose SoundSport Headphones are the least favored, with sales close to 0% across all regions.</li>
+        <li>The consistent shape of the radar graphs for each region indicates that product demand remains stable across different markets.</li>
       </ul>
     </td>
   </tr>
