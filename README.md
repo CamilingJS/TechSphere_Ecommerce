@@ -9,14 +9,14 @@
       <body>
         <strong>TechSphere</strong> is a US-based e-commerce company that sells popular consumer electronics and accessories to a global clientele. Established in 2018, the company has grown and expanded in the last few years, it has encountered increasing competition from peer companies as well as unique challenges and opportunities brought on by the COVID-19 pandemic. <br>
         <br>
-        <strong>TechSphere's</strong> book of business is approaching <strong>88,000</strong> customers and possesses over <strong>108,000</strong> transactions, generating sales revenue exceeding <strong>$28 million</strong>. The available eCommerce data spans various dimensions and metrics, including sales, products, marketing efforts, operations, and the company's loyalty program. <br>
+        <strong>TechSphere's</strong> book of business is approaching <strong>88,000</strong> customers and possesses over <strong>108,000</strong> transactions, generating sales revenue exceeding <strong>$28 million</strong>. The available eCommerce data spans various dimensions and metrics, including sales, products, sales by regions, and the company's loyalty program. <br>
         <br>Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate <strong>TechSphere’s</strong> performance over the past several years (2019–2022). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance <strong>TechSphere’s</strong> commercial performance. The key insights and recommendations focus on the following areas:
       </body>
       <h4>
         <ul> Northstar Metrics <li>Sales trends - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).</li>
           <li>Product performance - Analyzing different product lines, market impact, and refund rates to inform strategic product decisions.</li>
           <li>Loyalty program evaluation - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention.</li>
-          <li>Operational effectiveness - Evaluating logistics and operational efficiency to identify areas for improvement.</li>
+          <li>Regional results - Evaluating regional demand and product performance within regions to identify areas for improvement.</li>
         </ul>
       </h4>
     </td>
@@ -278,9 +278,9 @@
         <li>Samsung Webcam see their highest sales rate in North America, with 58% of total sales occurring in this region.</li>
         <li>The shape of the radar graph suggests that regional demand varies significantly across different areas.</li>
         <br>
-        <li>The 27-Inch 4K Gaming Monitor is the most popular product across all regions, accounting for 35% of total sales.</li>
-        <li>Meanwhile, the Bose SoundSport Headphones are the least favored, with sales close to 0% across all regions.</li>
-        <li>The consistent shape of the radar graphs for each region indicates that product demand remains stable across different markets.</li>
+        <li>The 27-Inch 4K Gaming Monitor is the most popular across products, accounting for 35% of total product sales.</li>
+        <li>Meanwhile, the Bose SoundSport Headphones are the least favored, with sales close to 0% across products.</li>
+        <li>The stable shape of the radar graph across products indicates that individual product demand is consistent across different markets. Top performing products (eg the 27 Inch 4K Gaming Monitor) perform high within regions and low performing products (e.g. Bose Soundsport Headphones) perform low within regions.(</li>
       </ul>
     </td>
   </tr>
@@ -290,6 +290,15 @@
     <h1 align="center">Recommendations</h1>
     <div align="center">
     </div>
-    <td width="1000"></td>
+    <td width="1000">
+      <h3>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</h3>
+      <ul>
+        <li>Continue a strong push of the Loyalty Program to boost and stablize sales orders, as loyalty members are more likely return as customers and purchase high-priced items.</li>
+        <li>Win back lost customers post the pandemic boom by offering sales strategies (e.g. bundled discounts to recover AOV, early promotions, and loyalty-member incentives).</li>
+        <li></li>
+        <li>Optimize inventory for high performing products (e.g. 27 Inch 4K Gaming Monitor and Apple Airpod Headphones).</li>
+        <li>Deprioritize inventory for low performing porducts (e.g. Bose Soundsport Headphones).</li>
+      </ul>
+    </td>
   </tr>
 </table>
