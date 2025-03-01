@@ -304,11 +304,17 @@
         <li>Capitalize on seasonal market fluctuations by ensuring popular products are well-stocked for the Q4 sales influx.</li>
         <li>Remedy Q1 seasonal lulls by offering post-holiday promotions to maintain momentum.</li>
         <h3>Products</h3>
-        <li>Optimize inventory for high performing products (e.g. 27 Inch 4K Gaming Monitor and Apple Airpod Headphones).</li>
-        <li>Deprioritize inventory for low performing porducts (e.g. Bose Soundsport Headphones).</li>
+        <li>Optimize inventory for high-performing products (e.g., 27-inch 4K gaming monitor, Apple AirPods account two-thirds of total sales and number of orders).</li>
+        <li>Deprioritize inventory for low-performing products (e.g., Bose SoundSport Headphones and Apple iPhone constitute for nearly 0% of total purchase orders).</li>
+        <li>Target sales for MacBook Air laptops, as they rank third in sales revenue (22%) but fall in the bottom half for number of purchase orders (3.67%).</li>
         <h3>Loyalty Program</h3>
-        <li>Continue a strong push of the Loyalty Program to boost and stablize sales orders, as loyalty members are more likely return as customers and purchase high-priced items.</li>
+        <li>Continue a strong push for the loyalty program to boost and stabilize sales, as loyalty members are more likely to return as customers and purchase high-priced items.</li>
+        <li>Offer incentives for loyalty members to target purchases of MacBook Air laptops, as they align with the preferred user persona ideal for purchasing high-priced products and improving retention rates.</li>
+        <li>Make enrollment in the loyalty program easy and offer instant rewards for signing up.</li>
         <h3>Refund Rates</h3>
+        <li>Improve product quality control, especially for the most frequently returned products, such as ThinkPad Laptops and MacBook Air Laptops.</li>
+        <li>Gather and display authentic customer reviews and testimonials to enhance transparency and build trust.</li>
+        <li>Encourage exchanges instead of refunds by making the exchange process seamless and offering personalized product recommendations when returns are initiated.</li>
         <h3>Regions</h3>
       </ul>
     </td>
