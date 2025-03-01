@@ -167,7 +167,7 @@
         <h3>Product Sales Surged in 2020 but were not Sustained at High Levels</h3>
         <img width="1000" alt="Product sales graph from 2019 to 2022" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740121052/Product_Sales_Line_Graph_CamilingJS" />
       </div>
-    <tr>>
+    <tr>
   </tr>
 </table>
 <table aign="center">
@@ -287,8 +287,8 @@
 </table>
 <table>
   <tr>
-    <td width="500"><h1>Recommendations</h1></td>
-    <td width="500"><div align="right">
+    <td width="500" border="0"><h1>Recommendations</h1></td>
+    <td width="500" border="0"><div align="right">
       <img width="192" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/TechShere_Logo_CamilingJS" />
     </div></td>
   </tr>
@@ -296,12 +296,13 @@
 <table align="center">
   <tr>
     <td width="1000">
-      <h3>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</h3>
+      <h4>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</h4>
       <ul>
         <h3>Sales</h3>
-        <li>Win back lost customers post the pandemic boom by offering sales strategies.</li>
-        <li>Offer bundled discounts to recover AOV.</li>
-        <li>Take advantage of seasonal market fluctuations by having promostion during Q4.</li>
+        <li>Win back lost customers after the pandemic boom by offering exclusive deals for returning customers.</li>
+        <li>Offer bundled discounts on high-priced products to recover AOV.</li>
+        <li>Capitalize on seasonal market fluctuations by ensuring popular products are well-stocked for the Q4 sales influx.</li>
+        <li>Remedy Q1 seasonal lulls by offering post-holiday promotions to maintain momentum.</li>
         <h3>Products</h3>
         <li>Optimize inventory for high performing products (e.g. 27 Inch 4K Gaming Monitor and Apple Airpod Headphones).</li>
         <li>Deprioritize inventory for low performing porducts (e.g. Bose Soundsport Headphones).</li>
