@@ -285,19 +285,30 @@
     </td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td width="500"><h1>Recommendations</h1></td>
+    <td width="500"><div align="right">
+      <img width="192" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/TechShere_Logo_CamilingJS" />
+    </div></td>
+  </tr>
+</table>
 <table align="center">
   <tr>
-    <h1 align="center">Recommendations</h1>
-    <div align="center">
-    </div>
     <td width="1000">
       <h3>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</h3>
       <ul>
-        <li>Continue a strong push of the Loyalty Program to boost and stablize sales orders, as loyalty members are more likely return as customers and purchase high-priced items.</li>
-        <li>Win back lost customers post the pandemic boom by offering sales strategies (e.g. bundled discounts to recover AOV, early promotions, and loyalty-member incentives).</li>
-        <li></li>
+        <h3>Sales</h3>
+        <li>Win back lost customers post the pandemic boom by offering sales strategies.</li>
+        <li>Offer bundled discounts to recover AOV.</li>
+        <li>Take advantage of seasonal market fluctuations by having promostion during Q4.</li>
+        <h3>Products</h3>
         <li>Optimize inventory for high performing products (e.g. 27 Inch 4K Gaming Monitor and Apple Airpod Headphones).</li>
         <li>Deprioritize inventory for low performing porducts (e.g. Bose Soundsport Headphones).</li>
+        <h3>Loyalty Program</h3>
+        <li>Continue a strong push of the Loyalty Program to boost and stablize sales orders, as loyalty members are more likely return as customers and purchase high-priced items.</li>
+        <h3>Refund Rates</h3>
+        <h3>Regions</h3>
       </ul>
     </td>
   </tr>
