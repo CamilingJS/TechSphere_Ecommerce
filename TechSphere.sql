@@ -91,3 +91,59 @@ OR lower(product_name) LIKE '%macbook%';
 SELECT *,
   date_diff(ship_ts, purchase_ts, day) as days_to_ship
 FROM core.order_status;
+
+-- Order counts, sales, and AOV for Macbooks sold in North America for each quarter across all years
+select 
+  date_trunc(purchase_ts, quarter) as purchase_quarter,
+  count(orders.id) as order_count,
+  round(sum(orders.usd_price), 2) as total_sales,
+  round(avg(orders.usd_price), 2) as aov
+from core.orders 
+left join core.customers
+  on orders.customer_id = customers.id
+left join core.geo_lookup
+  on customers.country_code = geo_lookup.country
+where region = 'NA'
+and lower(product_name) like '%macbook%'
+group by 1
+order by 1 desc; 
+
+-- Average quarterly order count and total sales for Macbooks sold in North America
+with quarterly_metrics as (
+  select date_trunc(orders.purchase_ts, quarter) as purchase_quarter,
+    count(distinct orders.id) as order_count,
+    round(sum(orders.usd_price),2) as total_sales
+  from core.orders
+  left join core.customers
+    on orders.customer_id = customers.id
+  left join core.geo_lookup 
+    on customers.country_code = geo_lookup.country
+  where lower(orders.product_name) like '%macbook%'
+    and region = 'NA'
+  group by 1
+  order by 1 desc)
+
+select avg(order_count) as avg_quarter_orderes,
+  avg(total_sales) as avg_quarter_sales
+from quarterly_metrics;
+
+-- Products purchased in 2022 on the website or products purchased on mobile in any year, which region has the average highest time to deliver? 
+SELECT 
+  region,
+  Avg( Date_diff(order_status.delivery_ts, order_status.purchase_ts, week) ) as days_to_deliver_
+FROM core.orders
+LEFT JOIN core.customers
+  ON orders.customer_id = customers.id 
+LEFT JOIN core.order_status
+  ON orders.id = order_status.order_id
+LEFT JOIN core.geo_lookup
+  ON customers.country_code = geo_lookup.country
+WHERE  
+(orders.purchase_platform = 'website' AND Extract(year from order_status.purchase_ts) = 2022)
+OR
+(orders.purchase_platform = 'mobile app')
+GROUP BY 1
+ORDER BY 2 DESC; 
+
+
+-- Refund rate and refund count for each product overall
