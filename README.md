@@ -152,7 +152,7 @@
   <table>
     <tr>
       <h4>
-        <strong>Comparison of Months-Over-Years Sales Revenue Growth and AOV Growth</strong>
+        <strong>Sales Growth follows seasonal fluctuations, while AOV remains relatively constant, except for the Sales Growth in October 2022</strong>
       </h4>
       <td>
         <img width="900" alt="Sales Growth vs. AOV Growth" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1741247711/Sales_and_AOV_Growth_MOY_CamilingJS" />
@@ -299,15 +299,20 @@
       <h4>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</h4>
       <ul>
         <h3>Sales</h3>
-        <li>Win back lost customers after the pandemic boom by offering exclusive deals for returning customers.</li>
-        <li>Offer bundled discounts on high-priced products to recover AOV.</li>
-        <li>Capitalize on seasonal market fluctuations by ensuring popular products are well-stocked for the Q4 sales influx.</li>
-        <li>Remedy Q1 seasonal lulls by offering post-holiday promotions to maintain momentum.</li>
-        <li>Monitor and investigate internal and external factors contributing to the 2022 Q4 sales anamoly.</li>
+        <li>Remedy sales lows due to seasonal fluctuations in January and February by increasing marketing campaigns during these low-sales periods.</li>
+          <ul><li>The average sales growth year-over-year for January is -12%, and for February, it is -23%.</li></ul>
+          <ul><li>Average Sales Growth for Q4 post-pandemic is -17%.</li></ul>
+        <li>Win back lost customers after the pandemic boom by implementing marketing or promotional campaigns for returning customers.</li>
+          <ul><li>The average year-over-year sales growth post-pandemic is -28%.</li></ul>
+          <ul><li>The average year-over-year order count growth post-pandemic is -17%.</li></ul>
         <h3>Products</h3>
-        <li>Optimize inventory for high-performing products (e.g., 27-inch 4K gaming monitor, Apple AirPods account two-thirds of total sales and number of orders).</li>
-        <li>Deprioritize inventory for low-performing products (e.g., Bose SoundSport Headphones and Apple iPhone constitute for nearly 0% of total purchase orders).</li>
-        <li>Target sales for MacBook Air laptops, as they rank third in sales revenue (22%) but fall in the bottom half for number of purchase orders (3.67%).</li>
+        <li>Optimize inventory for high-performing products year-round.</li>
+          <ul><li>The 27-Inch 4K Gaming Monitor is the strongest product in terms of sales, approaching $10 million over four years.</li></ul>
+          <ul><li>The Apple AirPods are also a strong-selling product, with close to $8 million in sales over four years.</li></ul>
+        <li>Deprioritize inventory for low-performing products.</li>
+          <ul><li>Bose SoundSport Headphones and Apple iPhone constitute for nearly 0% of total purchase orders.</li></ul>
+        <li>Investigate sales for MacBook Air laptops.</li>
+          <ul><li>MacBook Air Laptops rank third in sales revenue (22%) but fall in the bottom half for number of purchase orders (3.67%).</li></ul>
         <h3>Loyalty Program</h3>
         <li>Continue a strong push for the loyalty program to boost and stabilize sales, as loyalty members are more likely to return as customers and purchase high-priced items.</li>
         <li>Offer incentives for loyalty members to target purchases of MacBook Air laptops, as they align with the preferred user persona ideal for purchasing high-priced products and improving retention rates.</li>
