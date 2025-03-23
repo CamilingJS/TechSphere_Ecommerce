@@ -268,19 +268,33 @@
 <table align="center">
   <h1 align="center">Regional Results</h1>
       <div align="center">
-        <img width="1000" alt="Sales by region" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740678025/Regional_Radars_Camiling" />
+        <img width="1000" alt="Sales by region" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1742756981/Regional_Barbel_Graph_CamilingJS.png" />
       </div>
   <tr valign="top">
      <td width="900">
       <ul>
-        <li>The North American region contributes the most to sales revenue for each TechSphere product, with an average of 52% of total sales per product.</li>
-        <li>In contrast, TechSphere sales have underperformed in the Latin American region, where each product accounts for only an average of 6% of total sales.</li>
-        <li>Samsung Webcam see their highest sales rate in North America, with 58% of total sales occurring in this region.</li>
-        <li>The shape of the radar graph suggests that regional demand varies significantly across different areas.</li>
-        <br>
-        <li>The 27-Inch 4K Gaming Monitor is the most popular across products, accounting for 35% of total product sales.</li>
-        <li>Meanwhile, the Bose SoundSport Headphones are the least favored, with sales close to 0% across products.</li>
-        <li>The stable shape of the radar graph across products indicates that individual product demand is consistent across different markets. Top performing products (eg the 27 Inch 4K Gaming Monitor) perform high within regions and low performing products (e.g. Bose Soundsport Headphones) perform low within regions.(</li>
+        <li>The North American region contributes the most to sales revenue for each TechSphere product.</li>
+          <ul>
+            <li>An average of 52% of total sales per product.</li>
+            <li>$2.7 million in 2022.</li>
+          </ul>
+        <li>In contrast, TechSphere sales have underperformed in the Latin American region.</li>
+          <ul>
+            <li>Each product accounts for only an average of 6% of total sales.</li>
+            <li>$256 thousand in 2022.</li>
+          </ul>
+        <li>Samsung Webcam see their highest sales rate in North America.</li>
+          <ul>
+            <li>58% of total sales occur in this region.</li>
+          </ul>
+        <li>The 27-Inch 4K Gaming Monitor is the most popular across products.</li>
+          <ul>
+            <li>Accounts for 35% of total product sales.</li>
+          </ul>
+        <li>Meanwhile, the Bose SoundSport Headphones are the least favored.</li>
+          <ul>
+            <li>Sales are close to 0% across products</li>
+          </ul>
       </ul>
     </td>
   </tr>
@@ -300,11 +314,11 @@
       <ul>
         <h3>Sales</h3>
         <li>Remedy sales lows due to seasonal fluctuations in January and February by increasing marketing campaigns during these low-sales periods.</li>
-          <ul><li>The average sales growth year-over-year for January is -12%, and for February, it is -23%.</li></ul>
-          <ul><li>Average Sales Growth for Q4 post-pandemic is -17%.</li></ul>
+          <ul><li>The average sales growth year-over-year for January is -12%, and for February, it is -23%.</li>
+          <li>Average Sales Growth for Q4 post-pandemic is -17%.</li></ul>
         <li>Win back lost customers after the pandemic boom by implementing marketing or promotional campaigns for returning customers.</li>
-          <ul><li>The average year-over-year sales growth post-pandemic is -28%.</li></ul>
-          <ul><li>The average year-over-year order count growth post-pandemic is -17%.</li></ul>
+          <ul><li>The average year-over-year sales growth post-pandemic is -28%.</li>
+          <li>The average year-over-year order count growth post-pandemic is -17%.</li></ul>
         <h3>Products</h3>
         <li>Optimize inventory for high-performing products year-round.</li>
           <ul><li>The 27-Inch 4K Gaming Monitor is the strongest product in terms of sales, approaching $10 million over four years.</li>
