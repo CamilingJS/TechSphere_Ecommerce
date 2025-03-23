@@ -336,7 +336,7 @@
         <h3>Refund Rates</h3>
         <li>Streamline product quality control for for high AOV products as as they are the most frequently returned products.</li>
           <ul><li>Macbook Air Laptops had an average return rate of 14% from 2019 to 2021.</li>
-          <li>Thankpad Laptops also had an average return rate of 14% from 2019 to 2021.</li></ul>
+          <li>Thinkpad Laptops also had an average return rate of 14% from 2019 to 2021.</li></ul>
         <h3>Regions</h3>
         <li>Maximize market share in North America, as this region dominates sales across all TechSphere products.</li>
           <ul><li>52% of product sales were in the North American region.</li></ul>
