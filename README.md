@@ -227,7 +227,7 @@
     </td>
     <td width="1000">
       <h3>Number of Orders by Loyalty Status</h3>
-      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1740551296/OrderCount_by_Loyalty_Status_CamilingJS">
+      <img width="450" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1742758110/OrderCount_by_Loyalty_Status_Camiling.png">
     </td>
   </tr>
 </table>
