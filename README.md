@@ -307,24 +307,29 @@
           <ul><li>The average year-over-year order count growth post-pandemic is -17%.</li></ul>
         <h3>Products</h3>
         <li>Optimize inventory for high-performing products year-round.</li>
-          <ul><li>The 27-Inch 4K Gaming Monitor is the strongest product in terms of sales, approaching $10 million over four years.</li></ul>
-          <ul><li>The Apple AirPods are also a strong-selling product, with close to $8 million in sales over four years.</li></ul>
+          <ul><li>The 27-Inch 4K Gaming Monitor is the strongest product in terms of sales, approaching $10 million over four years.</li>
+          <li>The Apple AirPods are also a strong-selling product, with close to $8 million in sales over four years.</li></ul>
         <li>Deprioritize inventory for low-performing products.</li>
           <ul><li>Bose SoundSport Headphones and Apple iPhone constitute for nearly 0% of total purchase orders.</li></ul>
         <li>Investigate sales for MacBook Air laptops.</li>
           <ul><li>MacBook Air Laptops rank third in sales revenue (22%) but fall in the bottom half for number of purchase orders (3.67%).</li></ul>
         <h3>Loyalty Program</h3>
         <li>Continue a strong push for the loyalty program to boost and stabilize sales, as loyalty members are more likely to return as customers and purchase high-priced items.</li>
-        <li>Offer incentives for loyalty members to target purchases of MacBook Air laptops, as they align with the preferred user persona ideal for purchasing high-priced products and improving retention rates.</li>
-        <li>Make enrollment in the loyalty program easy and offer instant rewards for signing up.</li>
+          <ul><li> Loyalty Member AOV grew 18% from 2019 to 2022</li>
+            <li>Loyalty members spent $31 more on average than non-loyalty members in 2022.</li></ul>
+        <li>Offer incentives for loyalty members to target purchases of MacBook Air laptops.</li>
+          <ul><li>Loyalty members align with the ideal user persona for MacBook Air laptops, as they purchase high-priced products, are more likely to return as customers, and rarely make returns.</li></ul>
         <h3>Refund Rates</h3>
-        <li>Improve product quality control, especially for the most frequently returned products, such as ThinkPad Laptops and MacBook Air Laptops.</li>
-        <li>Gather and display authentic customer reviews and testimonials to enhance transparency and build trust.</li>
-        <li>Encourage exchanges instead of refunds by making the exchange process seamless and offering personalized product recommendations when returns are initiated.</li>
+        <li>Streamline product quality control for for high AOV products as as they are the most frequently returned products.</li>
+          <ul><li>Macbook Air Laptops had an average return rate of 14% from 2019 to 2021.</li>
+          <li>Thankpad Laptops also had an average return rate of 14% from 2019 to 2021.</li></ul>
         <h3>Regions</h3>
-        <li>Streamline high-performing products, such as the 27-inch 4K Gaming Monitor and Apple AirPods Headphones, as individual product demand remains consistent across regions.</li>
         <li>Maximize market share in North America, as this region dominates sales across all TechSphere products.</li>
+          <ul><li>52% of product sales were in the North American region.</li></ul>
         <li>Diversify the portfolio in the Latin American region by expanding localized product offerings, sales channels, and market reach to increase sales revenue and purchase orders.</li>
+          <ul><li>Only 6% of product sales were in the Latin American region.</li></ul>
+        <li>Continue to streamline high-performing products.</li>
+          <ul><li> The demand for the 27-inch 4K Gaming Monitor and Apple AirPods headphones remains high relative to the region.</li></ul>
       </ul>
     </td>
   </tr>
