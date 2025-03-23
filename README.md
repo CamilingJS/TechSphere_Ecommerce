@@ -310,7 +310,7 @@
 <table align="center">
   <tr>
     <td width="1000">
-      <h4>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</h4>
+      <li>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</li>
       <ul>
         <h3>Sales</h3>
         <li>Remedy sales lows due to seasonal fluctuations in January and February by increasing marketing campaigns during these low-sales periods.</li>
