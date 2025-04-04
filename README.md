@@ -268,7 +268,7 @@
 <table align="center">
   <h1 align="center">Regional Results</h1>
       <div align="center">
-        <img width="1000" alt="Sales by region" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1742756981/Regional_Barbel_Graph_CamilingJS.png" />
+        <img width="1000" alt="Sales by region" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1743795515/Regional_Barbel_Graph_CamilingJS" />
       </div>
   <tr valign="top">
      <td width="900">
