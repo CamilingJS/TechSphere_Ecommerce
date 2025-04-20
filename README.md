@@ -12,8 +12,9 @@
         <strong>TechSphere's</strong> book of business is approaching <strong>88,000</strong> customers and possesses over <strong>108,000</strong> transactions, generating sales revenue exceeding <strong>$28 million</strong>. The available eCommerce data spans various dimensions and metrics, including sales, products, sales by regions, and the company's loyalty program. <br>
         <br>Reporting to the Head of Operations, an in-depth analysis was conducted to evaluate <strong>TechSphere’s</strong> performance over the past several years (2019–2022). This comprehensive review provides valuable insights that internal cross-functional teams will utilize to streamline processes and enhance <strong>TechSphere’s</strong> commercial performance. The key insights and recommendations focus on the following areas:
       </body>
+      <h3>Northstar Metrics</h3>
       <h4>
-        <ul> Northstar Metrics <li>Sales trends - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).</li>
+        <ul><li>Sales trends - Focusing on key metrics of sales revenue, number of orders placed, and average order value (AOV).</li>
           <li>Product performance - Analyzing different product lines, market impact, and refund rates to inform strategic product decisions.</li>
           <li>Loyalty program evaluation - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention.</li>
           <li>Regional results - Evaluating regional demand and product performance within regions to identify areas for improvement.</li>
@@ -79,7 +80,7 @@
 <h1 align="center">Insights Deep-Dive</h1>
 <table align="center">
   <tr>
-    <h1 align="center">Sales Shifts</h1>
+    <h1 align="center">Sales Trend</h1>
     <td width="1000">
       <img width="300" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739895398/Sales_Line_Graph_wnql3v">
     </td>
@@ -299,18 +300,18 @@
     </td>
   </tr>
 </table>
-<table>
+<!-- <table>
   <tr>
-    <td width="500" border="0"><h1>Recommendations</h1></td>
-    <td width="500" border="0"><div align="right">
+    <td width="700" border="0"><h1>Recommendations</h1>
+    <h4>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</h4></td>
+    <td width="400" border="0"><div align="right">
       <img width="192" src="https://res.cloudinary.com/dxctpvd8v/image/upload/v1739421238/TechShere_Logo_CamilingJS" />
     </div></td>
   </tr>
-</table>
+</table> -->
 <table align="center">
-  <tr>
-    <td width="1000">
-      <li>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</li>
+    <h1>Recommendations</h1>
+    <h4>Based on the uncovered insights, here are actionable items that TechSphere can take away from our analysis.</h4>
       <ul>
         <h3>Sales</h3>
         <li>Remedy sales lows due to seasonal fluctuations in January and February by increasing marketing campaigns during these low-sales periods.</li>
@@ -345,6 +346,4 @@
         <li>Continue to streamline high-performing products.</li>
           <ul><li> The demand for the 27-inch 4K Gaming Monitor and Apple AirPods headphones remains high relative to the region.</li></ul>
       </ul>
-    </td>
-  </tr>
 </table>
